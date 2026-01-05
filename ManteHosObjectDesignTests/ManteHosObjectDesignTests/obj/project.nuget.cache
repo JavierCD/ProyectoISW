@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "dgSpecHash": "25K+q+QhyO0=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\ProyectoISW\\ProyectoPracticas\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto ManteHosLib no es compatible con net48 (.NETFramework,Version=v4.8). El proyecto ManteHosLib admite: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoISW\\ProyectoPracticas\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj",
+      "filePath": "C:\\Users\\User\\source\\repos\\ProyectoISW\\ProyectoPracticas\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj",
+      "libraryId": "ManteHosLib",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto ManteHosLib no es compatible con net48 (.NETFramework,Version=v4.8) / win. El proyecto ManteHosLib admite: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoISW\\ProyectoPracticas\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj",
+      "filePath": "C:\\Users\\User\\source\\repos\\ProyectoISW\\ProyectoPracticas\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj",
+      "libraryId": "ManteHosLib",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto ManteHosLib no es compatible con net48 (.NETFramework,Version=v4.8) / win-arm64. El proyecto ManteHosLib admite: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoISW\\ProyectoPracticas\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj",
+      "filePath": "C:\\Users\\User\\source\\repos\\ProyectoISW\\ProyectoPracticas\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj",
+      "libraryId": "ManteHosLib",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-arm64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto ManteHosLib no es compatible con net48 (.NETFramework,Version=v4.8) / win-x64. El proyecto ManteHosLib admite: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoISW\\ProyectoPracticas\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj",
+      "filePath": "C:\\Users\\User\\source\\repos\\ProyectoISW\\ProyectoPracticas\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj",
+      "libraryId": "ManteHosLib",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto ManteHosLib no es compatible con net48 (.NETFramework,Version=v4.8) / win-x86. El proyecto ManteHosLib admite: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoISW\\ProyectoPracticas\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj",
+      "filePath": "C:\\Users\\User\\source\\repos\\ProyectoISW\\ProyectoPracticas\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj",
+      "libraryId": "ManteHosLib",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
+}
