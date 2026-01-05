@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ManteHos.Entities
+{
+    public partial class WorkOrder
+    {
+        public int Id { get; set; }
+        public DateTime StartDate { get; set; }
+        public DateTime? EndDate { get; set; }
+        public string RepairReport { get; set; }
+
+        // Relation
+        public virtual Incident Incident { get; set; }
+        public virtual ICollection<UsedPart> UsedParts { get; set; }
+        public virtual ICollection<Operator> Operators { get; set; }
+    }
+}
